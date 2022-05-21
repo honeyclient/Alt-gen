@@ -1,0 +1,5 @@
+{
+    "token":"bot token",
+    "autodelete":5000,
+    "prefix":"!"
+}
